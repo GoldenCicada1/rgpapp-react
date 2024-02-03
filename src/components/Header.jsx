@@ -6,8 +6,8 @@ export default function Header() {
         <header className='flex justify-between items-center
         px-3 max-w-6xl mx-auto'>
             <div>
-                <img src='https://github.com/GoldenCicada1/rgpapp-react/blob/main/public/logo-blue.png?raw=true' 
-                alt='logo' className='h-4 cursor-pointer' />
+                <img src='https://www.rgpapp.com/images/logo.png' 
+                alt='logo' className='h-5 cursor-pointer' />
             </div>
             <div>
                 <ul>
